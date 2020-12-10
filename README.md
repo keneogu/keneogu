@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Kenechukwu Oguagbaka
 
-<!--
-**keneogu/keneogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a FullStack Web Developer, and Teacher!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Personal Projects
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other software developers
+- 🤔 I’m looking for help with nothing at the moment
+- 💬 Ask me about technology
+- ⚡ Fun fact: I love to play soccer and listen to music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+### Connect with me:
+
+[<img align="left" alt="keneogu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://keneogu.github.io/portfolio-v2)
+[<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCPN-_Z1_HFvOyGDB6ppDjUQ)
+[<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/keneogu)
+[<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/oguagbaka-kenechukwu-8b2289179/)
+[<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/keneogu/)
+
+<br/><br/>
+### My Github Stats
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keneogu)](https://github.com/keneogu/github-readme-stats)
