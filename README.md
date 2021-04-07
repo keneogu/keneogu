@@ -1,11 +1,10 @@
 ### Hi there, I'm Kenechukwu Oguagbaka
 
-## I'm a FullStack Web Developer, and Teacher!!
+## I'm a Full-stack Web Developer, and Teacher!!
 
 - 🔭 I’m currently working on my Personal Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
-- 🤔 I’m looking for help with nothing at the moment
 - 💬 Ask me about technology
 - ⚡ Fun fact: I love to play soccer and listen to music
 
