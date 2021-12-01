@@ -11,11 +11,10 @@
 <br/><br/>
 ### Connect with me:
 
-[<img align="left" alt="keneogu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://keneogu.github.io/portfolio-v2)
+[<img align="left" alt="keneogu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://keneogu.github.io/portfolio/)
 [<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCPN-_Z1_HFvOyGDB6ppDjUQ)
 [<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/keneogu)
-[<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/oguagbaka-kenechukwu-8b2289179/)
-[<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/keneogu/)
+[<img align="left" alt="keneogu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kene-ogu/)
 
 <br/><br/>
 ### My Github Stats
