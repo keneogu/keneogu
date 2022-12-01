@@ -3,7 +3,7 @@
 ## I'm a Full-stack Web Developer, and Teacher!!
 
 - 🔭 I’m currently working on my Personal Projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning web3 and aws 👯 
 - 👯 I’m looking to collaborate with other software developers
 - 💬 Ask me about technology
 - ⚡ Fun fact: I love to play soccer and listen to music
